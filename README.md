@@ -1,1 +1,1 @@
-Binary tree data structure that can be built out from a sorted or unsorted array. Includes two "crawler" search methods, one being breadth-first and the other being depth-first. 
+Builds an unbalanced binary search tree from a given array. Includes two "crawler" search methods, one being breadth-first and the other being depth-first. 
